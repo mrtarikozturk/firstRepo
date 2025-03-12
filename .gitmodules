@@ -1,0 +1,3 @@
+[submodule "gelenOrtak"]
+	path = gelenOrtak
+	url = https://github.com/mrtarikozturk/secondRepo.git
